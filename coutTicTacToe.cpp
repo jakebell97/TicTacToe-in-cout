@@ -2,6 +2,8 @@
 #include <string>
 using namespace std;
 
+/// Very Rough, rewrite as a class, need to add gameOver with win and cats game check and impliment a win counter for each player.
+
 struct player
 {
 	char XorO, X, Y;
